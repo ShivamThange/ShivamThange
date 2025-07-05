@@ -1,18 +1,17 @@
-ls## Hi there 👋
-I am currently studying in IIIT Pune.
-I am more eager to learn about web development.
-<!--
-**ShivamThange/ShivamThange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi there, I'm Shivam!
 
-Here are some ideas to get you started:
+🎓 I'm currently pursuing my **B.Tech at IIIT Pune**, majoring in Computer Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-n
+### 💻 What I'm Passionate About
+- 🌐 Web Development — currently building projects with **JavaScript, React**, and **Node.js**
+- 🤖 Artificial Intelligence & Machine Learning — diving deep into the **fundamentals and real-world applications**
+- 🧠 Competitive Programming — solving problems on **LeetCode**, **Codeforces**, and more
+- 💹 Finance & 🌍 Geo-Politics — curious about how the world moves money and power
+
+### 🚀 Currently Learning
+- AI/ML algorithms and how to apply them effectively
+- Building full-stack web apps using the **MERN stack**
+
+---
+
+📫 Feel free to connect or collaborate on projects!
