@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Shivam Thange! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=CSE+Undergrad+%40+IIIT+Pune;Full-Stack+Developer+(MERN+%2B+Next.js);AI%2FML+%26+Computer+Vision+Enthusiast;Tech+Entrepreneur+%26+Web+Designer;Enjoy+to+Solve!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=CSE+Undergrad+%40+IIIT+Pune;Full-Stack+Developer+(MERN+%2B+Next.js);AI%2FML+%26+Computer+Vision+Enthusiast;Tech+Entrepreneur+%26+Web+Designer;Enjoy+to+Solve!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 I'm a **Computer Science and Engineering** student at **IIIT Pune** based in Maharashtra, India. I thrive at the intersection of web development and artificial intelligence, building everything from agentic AI tools to scalable SaaS applications. My philosophy is simple: **Enjoy to Solve**.
