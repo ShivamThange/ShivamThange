@@ -47,8 +47,8 @@ I'm a **Computer Science and Engineering** student at **IIIT Pune** based in Mah
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivamThange&show_icons=true&theme=tokyonight&hide_border=true" alt="Shivam's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamThange&theme=tokyonight&hide_border=true" alt="Shivam's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ShivamThange&show_icons=true&theme=tokyonight&hide_border=true" alt="Shivam's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ShivamThange&theme=tokyonight&hide_border=true" alt="Shivam's GitHub Streak" width="48%" />
 </p>
 
 ---
