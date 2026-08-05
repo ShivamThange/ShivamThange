@@ -10,7 +10,6 @@ I'm a **Computer Science and Engineering** student at **IIIT Pune** based in Mah
 
 ### 🚀 What I'm Up To
 - 🎓 Studying Computer Science (B.Tech) at **Indian Institute of Information Technology (IIIT), Pune**.
-- 💼 Working as a **Data Analyst Intern** at Bluestock Fintech.
 - 🧠 Exploring **Computer Vision** (YOLO models, RT-DETR) and building object classifiers for unstructured environments like Indian roads.
 - 💻 Architecting robust web apps with the **MERN stack** and **Next.js**.
 - 🏆 Actively competing in hackathons, including the **Smart India Hackathon (SIH)**, HackWithMumbai, AI for Bharat, and Hacksagon.
